@@ -1,5 +1,5 @@
 Summary:	SAP tunes player for Linux text terminal
-Summary(pl):	Odtwarzacz melodii SAP dla linuksowego terminala tekstowego
+Summary(pl.UTF-8):   Odtwarzacz melodii SAP dla linuksowego terminala tekstowego
 Name:		penguinsap
 Version:	0.1
 Release:	1
@@ -15,7 +15,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 SAP tunes player for Linux text terminal.
 
-%description -l pl
+%description -l pl.UTF-8
 Odtwarzacz melodii SAP dla linuksowego terminala tekstowego.
 
 %prep
